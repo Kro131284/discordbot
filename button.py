@@ -42,4 +42,4 @@ tree = app_commands.CommandTree(client)
 async def button(interaction:discord.Interaction):
     await interaction.response.send_message("Trete ein Drohne...Nagh....", view = button_view())
 
-client.run("MTE4MzY3MjU1NTE2NTQ1NDQyNg.GakVnQ.o0TKddTDnFjTBhmE-XT1dQfadqPaBfNRhPlEKU")
+client.run("")
